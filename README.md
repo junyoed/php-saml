@@ -16,7 +16,7 @@ To install locally:
     ln -s ~/src/php-saml/ php-saml
 ```
 
- * in a web browser, go to http://localhost/php-saml/index.php
+ * in a web browser, go to http://localhost/php-saml/demo/index.php
  * choose "auth google"
  * log in as the user you were given by Junyo
 
